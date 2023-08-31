@@ -1,4 +1,4 @@
-# Henry-Pollard
+# Poker Project
 This is a project meant to simulate a poker game. The code made by using pycharm. I also used python the coding language.
 To run this program you should download the files, upload it to pycharm, and then run the system. 
 
